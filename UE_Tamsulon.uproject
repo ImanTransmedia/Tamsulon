@@ -39,6 +39,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
